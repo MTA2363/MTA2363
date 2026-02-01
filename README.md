@@ -10,29 +10,36 @@
 
 # 👋 Hi, I'm Mostafa Al-Haih
 
-💻 A programmer interested in building software solutions  
-🔐 Passionate about **Cyber Security**  
-🤖 Interested in **Robotics and Intelligent Systems**  
-🐧 GNU/Linux user and open-source enthusiast  
+💻 Programmer passionate about building software solutions  
+🔐 Cyber Security enthusiast  
+🤖 Interested in Robotics & Artificial Intelligence  
+🐧 GNU/Linux user and open-source lover  
 
 ---
 
-## 🚀 Areas of Interest
-- Programming & Software Development  
-- Cyber Security & Ethical Hacking  
-- Robotics & Embedded Systems  
-- Algorithms & Problem Solving  
-- Linux, Networking & Systems  
+## 🚀 Focus Areas
+
+> **Balanced Focus:**  
+> 🔐 **40% Cyber Security** – systems, networks, defense  
+> 🤖 **40% Artificial Intelligence** – intelligent systems & algorithms  
+> 💻 **20% Programming** – connecting everything through code  
+
+- 💻 Programming & Software Development  
+- 🔐 Cyber Security & Ethical Hacking  
+- 🤖 Robotics & Embedded Systems  
+- 📊 Algorithms & Problem Solving  
+- 🐧 Linux, Networking & Systems  
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages & Tools I Actively Use
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -46,7 +53,7 @@ class MostafaAlHaih {
         "Programming",
         "Cyber Security",
         "Robotics",
-        "Linux",
+        "AI",
         "Problem Solving"
     };
 
