@@ -8,17 +8,16 @@
 
 ---
 
-# 👋 أنا مصطفى الحيح  
-### Mostafa Al-Haih
+# 👋 Hi, I'm Mostafa Al-Haih
 
-💻 مبرمج مهتم ببناء الحلول البرمجية  
-🔐 شغوف بمجال **الأمن السيبراني (Cyber Security)**  
-🤖 مهتم بـ **تطوير الروبوتات والأنظمة الذكية**  
-🐧 مستخدم ومحب لأنظمة **GNU/Linux**
+💻 A programmer interested in building software solutions  
+🔐 Passionate about **Cyber Security**  
+🤖 Interested in **Robotics and Intelligent Systems**  
+🐧 GNU/Linux user and open-source enthusiast  
 
 ---
 
-## 🚀 مجالات اهتمامي
+## 🚀 Areas of Interest
 - Programming & Software Development  
 - Cyber Security & Ethical Hacking  
 - Robotics & Embedded Systems  
@@ -27,13 +26,13 @@
 
 ---
 
-## 🧰 اللغات والأدوات
+## 🧰 Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
