@@ -43,6 +43,14 @@
 
 ---
 
+## 📫 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+972594394300)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafahih2003@gmail.com)  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:Ma23892022@outlook.sa)
+
+---
+
 ```java
 // About Me in Code
 class MostafaAlHaih {
